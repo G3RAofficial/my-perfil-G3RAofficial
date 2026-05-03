@@ -1,5 +1,5 @@
-<a href="https://github.com/Synaptara">
-  <img src="https://i.postimg.cc/5Ngvzjq6/20260308-201850-jpg.jpg" width="100%" alt="Synaptara Banner"/>
+<a href="https://github.com/G3RAofficial">
+  <img src="https://postimg.cc/Bt8GLjcw" width="100%" alt="G3RA Banner"/>
 </a>
 
 <div align="center">
@@ -43,7 +43,7 @@
 <h3 align="center">Connect</h3>
 
 <div align="center">
-  <a href="https://github.com/Synaptara"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/G3RAofficial"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
   <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
