@@ -1,9 +1,9 @@
-# my-perfil-G3RAofficial
-<h1 align="left">Hey 👋 What's up?</h1>
+
+<h1 align="left"> G3RAofficial </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Gera and I'm a Developer, from México</p>
 
 ###
 
