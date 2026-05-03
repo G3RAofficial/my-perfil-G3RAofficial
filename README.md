@@ -24,11 +24,9 @@
 
 <h3 align="center">Know About Me</h3>
 
-<div align="justify" style="max-width: 800px; margin: 0 auto;">
-  <img align="left" width="160" src="https://media.tenor.com/tYt6iYFjMHgAAAAi/brain.gif" alt="Brain GIF" style="margin-right: 20px; border-radius: 10px;">
-  
-  <p>Hey, <b>I'm Karthick!</b> I'm an AI & Data Science undergrad (Class of 2026) based near Trivandrum, constantly on the hunt for the perfect minimalist dark theme. I spend my days building Python automation scripts, React.js web apps, and exploring the unpredictable world of AI agents and LLMs. I'm a big believer in writing code to automate myself out of doing actual work whether that's building secure sharing tools like FileGhost or letting my custom Discord bot, GhostCommander, manage my workflows. When I'm not deep into development, you can usually find me explaining my logic to a rubber duck, trying to figure out why my code only works on my machine, or negotiating with CSS to just center a div already.</p>
-</div>
+<div align="center" style="max-width: 800px; margin: 0 auto;">  
+  <img align="left" width="160" src="https://media.tenor.com/tYt6iYFjMHgAAAAi/brain.gif" alt="Brain GIF" style="margin-right: 20px; border-radius: 10px;">    
+  <p>Hey, <b>I'm G3RA!</b>b> I specialize in building AI automations and specialized apps to rescue professionals (lawyers, accountants, HR) from their soul-crushing manual tasks. My daily grind involves a chaotic but effective mix of <b>Python, JavaScript, C/C++</b>b>, and frameworks like <b>Vue, Node.js, and Django</b>b>. When I'm not orchestrating infrastructure across <b>AWS, GCP, or Azure</b>b> with <b>Docker</b>b>, I'm deep in the trenches of networking (BGP, OSPF, SD-WAN) or acting as a Cybersecurity Analyst & Pentester. I use <b>Kali Linux</b>b>, Wireshark, and custom Python/Bash scripts to proactively hunt vulnerabilities and secure systems (ISO 27001, SOC2). Basically, if it can be automated, routed, or hacked (ethically, of course), I'm probably already messing with it.</p>p></div>div></b></p>
 
 <br clear="both">
 <br>
