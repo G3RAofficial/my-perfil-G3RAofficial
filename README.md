@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">Know About Me</h3>
+<h3 align="center"> About Me</h3>
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">  
   <img align="left" width="160" src="https://media.tenor.com/tYt6iYFjMHgAAAAi/brain.gif" alt="Brain GIF" style="margin-right: 20px; border-radius: 10px;">    
