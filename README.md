@@ -51,8 +51,7 @@
 <br>
 
 <div align="center" style="max-width: 700px; margin: 0 auto; color: #8b949e;">
-  <p>| Code is never finished. It only becomes slightly less terrible over time.</p>
-  <p style="font-size: 0.9em;">Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.</p>
+  <p>| sacrifica la vida que tienes X la que quieres. |</p>
 </div>
 
 <br>
