@@ -3,11 +3,11 @@
 </a>
 
 <div align="center">
-  <a href="URL_DE_TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/gerardo-castillo-3b4aa7313/">
     <img alt="LinkedIn" title="Mi LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="URL_DE_TU_X_TWITTER">
+  <a href="https://x.com/gerardo51864714">
     <img alt="X" title="Mi X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
@@ -15,7 +15,7 @@
     <img alt="Instagram" title="Mi Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="URL_DE_TU_YOUTUBE">
+  <a href="https://www.youtube.com/@G3ra-official">
   <img alt="YouTube" title="Mi YouTube" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </div>
