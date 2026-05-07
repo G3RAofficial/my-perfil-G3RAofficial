@@ -34,19 +34,7 @@
 
 <div align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /></div>div>
 <br>
-<h3 align="center">Top Projects (built to avoid manual labor)</h3>
 
-<div align="justify" style="max-width: 800px; margin: 0 auto;">
-  <img align="right" width="120" src="https://media.tenor.com/bY-4tJc788cAAAAi/fire-flame.gif" alt="Fire GIF" style="margin-left: 20px;">
-  
-  <ul style="list-style-type: none;">
-    <li><a href="https://github.com/Synaptara/FileGhost" style="text-decoration: none; color: inherit;"><b><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"> FILEGHOST</b></a> - Secure file sharing, because some code needs to self-destruct gracefully.</li>
-    <br>
-    <li><a href="https://github.com/Synaptara/Gen-Ghost_v1" style="text-decoration: none; color: inherit;"><b><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"> GHOST COMMANDER</b></a> - A Discord bot that manages my server better than I manage my sleep schedule.</li>
-    <br>
-    <li><a href="#" style="text-decoration: none; color: inherit;"><b><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"> QA DOCS</b></a> - RAG-based AI to read text files for me, because reading is hard.</li>
-  </ul>
-</div>
 
 <br clear="both">
 <br>
