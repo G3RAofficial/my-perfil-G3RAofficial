@@ -24,7 +24,7 @@
 
 <h3 align="center">About Me</h3>
 
-<div align="justify" style="max-width: 800px; margin: 0 auto;">  
+<div align="center" style="max-width: 800px; margin: 0 auto;">  
   <img align="left" width="160" src="https://media.tenor.com/tYt6iYFjMHgAAAAi/brain.gif" alt="Brain GIF" style="margin-right: 20px; border-radius: 10px;">    
   <p>Hey, <b>I'm G3RA!</b> I specialize in building AI automations and specialized apps to rescue professionals (lawyers, accountants, HR) from their soul-crushing manual tasks. My daily grind involves a chaotic but effective mix of <b>Python, JavaScript, C/C++</b>, and frameworks like <b>Node.js and Django</b>. When I'm not orchestrating infrastructure across <b>AWS, GCP, or Azure</b> with <b>Docker</b>, I'm deep in the trenches of networking (BGP, OSPF, SD-WAN) or acting as a Cybersecurity Analyst & Pentester. I use <b>Kali Linux</b>, Wireshark, and custom Python/Bash scripts to proactively hunt vulnerabilities and secure systems (ISO 27001, SOC2). Basically, if it can be automated, routed, or hacked (ethically, of course), I'm probably already messing with it.</p>
 </div>
