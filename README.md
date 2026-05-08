@@ -26,13 +26,50 @@
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">  
   <img align="left" width="160" src="https://media.tenor.com/tYt6iYFjMHgAAAAi/brain.gif" alt="Brain GIF" style="margin-right: 20px; border-radius: 10px;">    
-  <p>Hey, <b>I'm G3RA!</b> I specialize in building AI automations and specialized apps to rescue professionals (lawyers, accountants, HR) from their soul-crushing manual tasks. My daily grind involves a chaotic but effective mix of <b>Python, JavaScript, C/C++</b>, and frameworks like <b>Vue, Node.js, and Django</b>. When I'm not orchestrating infrastructure across <b>AWS, GCP, or Azure</b> with <b>Docker</b>, I'm deep in the trenches of networking (BGP, OSPF, SD-WAN) or acting as a Cybersecurity Analyst & Pentester. I use <b>Kali Linux</b>, Wireshark, and custom Python/Bash scripts to proactively hunt vulnerabilities and secure systems (ISO 27001, SOC2). Basically, if it can be automated, routed, or hacked (ethically, of course), I'm probably already messing with it.</p></div></b></p>
+  <p>Hey, <b>I'm G3RA!</b> I specialize in building AI automations and specialized apps to rescue professionals (lawyers, accountants, HR) from their soul-crushing manual tasks. My daily grind involves a chaotic but effective mix of <b>Python, JavaScript, C/C++</b>, and frameworks like <b>Node.js and Django</b>. When I'm not orchestrating infrastructure across <b>AWS, GCP, or Azure</b> with <b>Docker</b>, I'm deep in the trenches of networking (BGP, OSPF, SD-WAN) or acting as a Cybersecurity Analyst & Pentester. I use <b>Kali Linux</b>, Wireshark, and custom Python/Bash scripts to proactively hunt vulnerabilities and secure systems (ISO 27001, SOC2). Basically, if it can be automated, routed, or hacked (ethically, of course), I'm probably already messing with it.</p></div></b></p>
 
 <br clear="both">
 <br>
 
 
-<div align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="12" />  
+<div align="center">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+height="40" alt="Python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+height="40" alt="C++ logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+ height="40" alt="javascript logo"  />  
+ <img width="12" />  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  height="40" alt="typescript logo"  />  
+ <img width="12" />  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  height="40" alt="react logo"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  height="40" alt="nodejs logo"  />  
+  <img width="12" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+ height="40" alt="html logo" />
+<img width="12" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+height="40" alt="Django logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+height="40" alt="Azure logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+height="40" alt="My sql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+height="40" alt="Docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+height="40" alt="Google cloud logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+height="40" alt="AWS logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
+height="40" alt="Kali-linux logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
+height="40" alt="Arch-linux logo" />
+          
+
 </div>
 <br>
 
@@ -43,9 +80,9 @@
 <h3 align="center">Connect</h3>
 
 <div align="center">
-  <a href="https://karthick-portfolio-steel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:g3raofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
 </div>
 
